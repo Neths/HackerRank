@@ -1,0 +1,7 @@
+packages/
+HackerRank/obj/
+HackerRank/bin/
+.vs/
+*.ncrunchsolution
+_NCrunch_HackerRank/
+*.user
