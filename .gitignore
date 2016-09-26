@@ -5,3 +5,4 @@ HackerRank/bin/
 *.ncrunchsolution
 _NCrunch_HackerRank/
 *.user
+*.ncrunchproject
