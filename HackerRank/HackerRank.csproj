@@ -50,7 +50,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\Warmup\A_Very_Big_Sum.cs" />
     <Compile Include="Algorithms\Warmup\Compare_the_Triplets.cs" />
+    <Compile Include="Algorithms\Warmup\Diagonal_Difference.cs" />
     <Compile Include="Algorithms\Warmup\Simple_Array_Sum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

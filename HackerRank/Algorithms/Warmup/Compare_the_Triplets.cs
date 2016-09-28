@@ -46,7 +46,7 @@ namespace HackerRank.Algorithms.Warmup
     }
 
     [TestFixture]
-    public class Test
+    public class Compare_the_Triplets_Test
     {
         [Test]
         public void GetSimpleSumArray()

@@ -26,7 +26,7 @@ public class Simple_Array_Sum
 }
 
 [TestFixture]
-public class Test
+public class Simple_Array_Sum_Test
 {
     [Test]
     public void GetSimpleSumArray()
